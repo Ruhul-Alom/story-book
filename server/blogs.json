@@ -1,0 +1,94 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The Importance of Unhappy Customers",
+      "author": "Jane Doe",
+      "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-jLhDQjJ4Hu-tMCFbGDKO_-A2ozkHPheIdQ&s",
+      "date": "2024-05-25",
+      "category": "Business",
+      "content": "Your most unhappy customers are your greatest source of learning. Embrace their feedback to drive growth and innovation.",
+      "tags": [
+        "Customer Feedback",
+        "Business Growth",
+        "Innovation"
+      ],
+      "blogImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREsluP7Wnht_8APVh4nqBTBGkWlru3xFV9oQ&s"
+    },
+    {
+      "id": 2,
+      "title": "Top 10 Travel Destinations for 2024",
+      "author": "John Smith",
+      "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM8a2MUfdySK0SpBsRoLJ7GvrRP0mMIkixcw&s",
+      "date": "2024-05-24",
+      "category": "Travel",
+      "content": "Explore the top 10 travel destinations for 2024. Discover hidden gems and must-visit locations for your next adventure.",
+      "tags": [
+        "Travel",
+        "Destinations",
+        "Adventure"
+      ],
+      "blogImage": "https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704_640.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Healthy Eating: Tips for a Balanced Diet",
+      "author": "Sarah Lee",
+      "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2F1rFKPOBLAMv5Z53N8j8XlKS7gH8Awb2Eg&s",
+      "date": "2024-05-23",
+      "category": "Food",
+      "content": "Learn how to maintain a balanced diet with these healthy eating tips. Find out what foods to include in your daily meals.",
+      "tags": [
+        "Health",
+        "Nutrition",
+        "Diet"
+      ],
+      "blogImage": "https://img.freepik.com/free-photo/buddha-bowl-dish-with-vegetables-legumes-top-view_1150-42589.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tech Innovations: What's New in 2024",
+      "author": "Michael Brown",
+      "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY3eNkV4S_QRdUHt2pHpDtZ24eG_wHCgCLDQ&s",
+      "date": "2024-05-22",
+      "category": "Tech",
+      "content": "Stay ahead of the curve with the latest tech innovations of 2024. Discover new gadgets, software, and trends in the tech world.",
+      "tags": [
+        "Technology",
+        "Innovations",
+        "Gadgets"
+      ],
+      "blogImage": "https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Effective Strategies for Personal Development",
+      "author": "Emily Davis",
+      "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa-JAatMvtf8lSPFNGaJ0ZrPd1_0aoG4Fu9w&s",
+      "date": "2024-05-21",
+      "category": "Personal Development",
+      "content": "Unlock your potential with these effective strategies for personal development. Learn how to set goals and achieve them.",
+      "tags": [
+        "Personal Development",
+        "Self Improvement",
+        "Goals"
+      ],
+      "blogImage": "https://t4.ftcdn.net/jpg/05/15/17/97/360_F_515179743_wdyM5cFLo1ioayWiiI8MI8GW5sGvBMXF.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Future of Renewable Energy",
+      "author": "David Wilson",
+      "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-jLhDQjJ4Hu-tMCFbGDKO_-A2ozkHPheIdQ&s",
+      "date": "2024-05-20",
+      "category": "Energy",
+      "content": "Explore the future of renewable energy. Learn about new technologies and how they are shaping a sustainable future.",
+      "tags": [
+        "Energy",
+        "Sustainability",
+        "Technology"
+      ],
+      "blogImage": "https://cdn.pixabay.com/photo/2022/08/18/11/29/wind-energy-7394705_1280.jpg"
+    }
+  ]
+}
